@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian a Quaker, the Quaker a Christian demonstrated in a letter to a most worthy person in this city giving answer to the little book lately published, and now reprinted, entituled A dialogue between a Christian and a Quaker : whereunto is added a postscript to the reader.</title>
+            <author>Loddington, William, 1626?-1711.</author>
+         </titleStmt>
+         <extent>Approx. 42KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26120</idno><idno type="EEBO-CITATION">10759266</idno>
+  <idno type="VID">204720</idno>
+  <idno type="EEBO-PROQUEST">2240879009</idno>
+  
+            <idno type="STC">Wing L2802</idno>
+            <idno type="OCLC">10759266</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26120)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204720)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1405:51)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian a Quaker, the Quaker a Christian demonstrated in a letter to a most worthy person in this city giving answer to the little book lately published, and now reprinted, entituled A dialogue between a Christian and a Quaker : whereunto is added a postscript to the reader.</title>
+                  <author>Loddington, William, 1626?-1711.</author>
+                  <author>Hicks, Thomas, 17th cent. Dialogue between a Christian and a Quaker.</author>
+               </titleStmt>
+               <extent>44, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to W. Loddington.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204720:1"/>
+            <pb facs="tcp:204720:1"/>
+            <p>THE CHRISTIAN A QUAKER THE QUAKER A CHRISTIAN DEMONSTRATED In a Letter to a most Worthy Person in this City, giving Answer to the little Book lately Published, and now Re-printed, Entituled, <hi>A Dialogue between a Christia<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and a Quaker.</hi>
+            </p>
+            <p>Whereunto is added a Post-script t<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Reader.</p>
+            <q>Vir bonus <hi>Cajus Sejus</hi> malus tantum quia Christianus. <bibl>
+                  <hi>Tertul.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed. 1674.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:204720:2"/>
+            <pb n="1" facs="tcp:204720:2"/>
+            <head>THE CHRISTIAN A QUAKER, THE QUAKER A CHRISTIAN.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>AS I have at sundry times upon divers and distink Occasions, visited you, and finding Favour and
+<pb n="2" facs="tcp:204720:3"/> Acceptance with you, I have thought meet at this time, to present you with some brief, and general Animadver<g ref="char:EOLhyphen"/>sions on the little Book, lately Pub<g ref="char:EOLhyphen"/>lished, called, <hi>A Dialogue between a Christian and a Quaker,</hi> which at first I marvelled at, especially at this time and season.</p>
+            <p>Indeed I heard some few Weeks before, by a very good and sober Per<g ref="char:EOLhyphen"/>son, That there was such an one, as the Author of this Book seems to be, <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as then writing to this purpose: but he spake it thus; That it was to prove the Quakers to be no Christi<g ref="char:EOLhyphen"/>ans. He told me the name of the Man, which I remember I had some knowledge of. He olso told me, who encouraged and countenanced him in it. Some of great Name in this City, who also have heretofore ap<g ref="char:EOLhyphen"/>peared in like manner, against the
+<pb n="3" facs="tcp:204720:3"/> forenamed People: but his Name I will not mention.</p>
+            <p>There was one remarkable Passage I was enformed of, touching the Author of the Book, <hi>viz.</hi> What befel him in the Writing of it, which he related thus. as from his own mouth.</p>
+            <p>As I was (said he) Wtiting, and making it ready, That Scrip<g ref="char:EOLhyphen"/>ture, 1 <hi>John</hi> 2.27. came in my way, and so stumbled me, that I was ready to lay the business quite aside. The words are these; <hi>But the Anointing, which ye have received of him, abideth in you. And ye need not, that any man teach you, but as the same Anoint<g ref="char:EOLhyphen"/>ing teacheth you of all things, and is Truth, and is no Lye.</hi>
+            </p>
+            <p>But here he at length (as he said)
+<pb n="4" facs="tcp:204720:4"/> taking Counsel of his Pillow, got o<g ref="char:EOLhyphen"/>ver this Scripture, or laid it quite by; for I do not remember I find it in his Book.</p>
+            <closer>
+               <salute>SIR,</salute> Let this serve but for a Preface.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="5" facs="tcp:204720:4"/>
+            <p>TOuching the Book it self, I shall chiefly take notice of the Title, and shall make but this Observation of it; That if it be but transposed, and the order of the the words inverted (and so make the Author, who intends himself by the Christian, to be the Quaker, and the Quaker indeed to be the true Christian, and so invert or transpose the whole Dialogue throughout) the Book may pass for a Book of some good Informa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>This matter indeed to me is plain, and evident: that the Christian
+<pb n="6" facs="tcp:204720:5"/> throughout this book, is the Quaker, and the Quaker the Christian.</p>
+            <p>For evidence and demonstration of the first, why I say, the Christi<g ref="char:EOLhyphen"/>an (so called) is more truly to be termed a Quaker, is, because in my eye, and belief, he bears the simili<g ref="char:EOLhyphen"/>tude and likeness, throughout the Book, of a Jew, not he (I mean) who is one inwardly, whose praise is not of Men, but of God; but he that is a Jew in the other sense of the Scripture a Jew (that is) a Pro<g ref="char:EOLhyphen"/>fessor of the Letter only, such a one, as was even <hi>Paul</hi> himself, whiles <hi>Saul,</hi> a well meaning Zealot (as the Lan<g ref="char:EOLhyphen"/>guage now is) here, the Body of the Jews stuck, and here they abide, even to this very hour: for they stumbled at the very same stumbling-stone. The Jews are the Professors of Christ (that is of the <hi>Messias</hi>) as well as those called by the common
+<pb n="7" facs="tcp:204720:5"/> name of Christians; and the ground, upon the matter, of this their Pro<g ref="char:EOLhyphen"/>fession, is much of the same kind.</p>
+            <p>The Jews have of a long time been expecting their <hi>Messiah</hi> with<g ref="char:EOLhyphen"/>out them, but however, he is not (as they confess) as yet come unto them, so that they rather expect to be Christians, but are not such as yet.</p>
+            <p>The Christians, that common<g ref="char:EOLhyphen"/>ly bear that name, say, the <hi>Messias</hi> was in times past among his Disci<g ref="char:EOLhyphen"/>ples, and Followers, but he is since that, ascended, and gone out of their sight; but though he be not for the present with them, or among them, they yet expect his return: so they are in expectation of him, as well as the Jews. The name Christian, I would only be called by, as prefer<g ref="char:EOLhyphen"/>ing it, above all other names, pro<g ref="char:EOLhyphen"/>vided
+<pb n="8" facs="tcp:204720:6"/> there be cause, and ground, why I should be so called. Th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re are three sorts of them, that are so called.</p>
+            <p n="1">1. Such as have the true reason, and ground of that name, that same <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that anointing, <hi>which is truth, and no lye,</hi> in themselves. To these Christ is come, and in them lives; but such for the most part, that are indeed so, are rarely called so; but by some other names of reproach, among which, perhaps, nay without doubt this name of <hi>Quaker</hi> is one.</p>
+            <p n="2">2. The second sort of People, called Christians, are such Christians, as this Author seems to be, even zea<g ref="char:EOLhyphen"/>lous, well-meaning Zealots (as they write and talk now adays) zealous after, and according to the Letter on<g ref="char:EOLhyphen"/>ly: as zealous for outward things, relating to the Christians; as the
+<pb n="9" facs="tcp:204720:6"/> Jews were of old, and even at this day. The outward Sabbath, the outward Sermon, the outward Word and Meetings, the outward Forms of Baptism, and the Supper: Christ without them, long ago, not yet come to them. Upon these outwardnesses, they stand, build, hope and trust: as the Jews of old did, upon their outward forms, of Persons, and Ser<g ref="char:EOLhyphen"/>vices: as <hi>Moses,</hi> the Sabbath, Cir<g ref="char:EOLhyphen"/>cumcision, the Temple, <hi>&amp;c.</hi> And because of their Zeal to these things: They Crucified Christ, Stoned <hi>Ste<g ref="char:EOLhyphen"/>phen,</hi> and did as great mischief to the followers of them, as was possible: yea they thought, they did God good service, to kill them.</p>
+            <p>But who have been the imitators of them in our days, to speak nothing now of the times before?</p>
+            <p n="1">1. In <hi>O. E.</hi> Was there not a way
+<pb n="10" facs="tcp:204720:7"/> found out by devout men, in their Ignorance and Zeal, after the Letter, not only to imprison, but to Stigma<g ref="char:EOLhyphen"/>tise some, for Blasphemers, which were indeed found to be true Christi<g ref="char:EOLhyphen"/>ans; and you may remember, what was done to these people, in the days of <hi>O. P.</hi> Who told the great Assem<g ref="char:EOLhyphen"/>bly then, there were a certain despi<g ref="char:EOLhyphen"/>cable People, who like the Serpent, nibled at the Heel of the Govern<g ref="char:EOLhyphen"/>ment, of whom yet, there was no great cause of fear, meaning this very People, against whom, Laws obliquely were made, cruel, and bad, and accordingly put in execu<g ref="char:EOLhyphen"/>tion; but these People proved in<g ref="char:EOLhyphen"/>deed (as was suggested) <hi>Jacob's (i. e.)</hi> Supplanters of that Generation of Men, that were only right and pure in their own eyes.</p>
+            <pb n="11" facs="tcp:204720:7"/>
+            <p>Let me also remember you a lit<g ref="char:EOLhyphen"/>tle of the sufferings of <hi>J. N.</hi> of<g ref="char:EOLhyphen"/>ten mentioned in this Book, a mat<g ref="char:EOLhyphen"/>ter, will never be forgotten. The whole power then of <hi>E.</hi> yea, of <hi>S.</hi> and <hi>J.</hi> which did then consist of Per<g ref="char:EOLhyphen"/>sons chosen, as was supposed of the most wise, and able, out of the three Nations, all, or most of them of the highest note, of this sort of Pro<g ref="char:EOLhyphen"/>fessors: they sate on his Tryal and Examination, no less than thirteen days, without any intermission: ma<g ref="char:EOLhyphen"/>king an Order, that nothing else should intervene, till the business of <hi>J. N.</hi> should be ended; and then at last, having upon the mat<g ref="char:EOLhyphen"/>ter, found little or nothing against
+<pb n="12" facs="tcp:204720:8"/> him,<note n="*" place="margin">Although it's true that the greatest part of his Friends, called Qua<g ref="char:EOLhyphen"/>kers, were dissatisfied, and troubled, concern<g ref="char:EOLhyphen"/>in him; as looking on him then clouded, and to have given advantage to the persecuting Spi<g ref="char:EOLhyphen"/>rit, by his being too Passi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, in not rejecting, or testifying against a few shatter-brain'd silly Women, who foolishly too mmch admired him; how-be-it he afterward coming to some sence thereof cond<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mn'd it, But this did not spring from the Barbarous actions of his Persecutors (who unjustly design<g ref="char:EOLhyphen"/>ed to bring an Odium upon the Quakers) but from a secret Con<g ref="char:EOLhyphen"/>viction of truth in him<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>elf.</note> did yet sentence him to be Whipt at the Carts-t il, from <hi>Westminster,</hi> to the <hi>Old Exchange</hi> in <hi>Cornhill;</hi> and there on a Scaf<g ref="char:EOLhyphen"/>fold, raised to that purpose, in the presence of many thousands, was Stigmatised with an hot Iron, and his Tongue bored through with the same: yea after that, to Ride with his Face towards the Horse-tail, into <hi>Bristol;</hi> and after all, kept a close Prisoner in <hi>Bridewell,</hi> in <hi>London</hi> for a long time; yet there were not a few,
+<pb n="13" facs="tcp:204720:8"/> wise, and good men, Witnesses and Assertors of his Innocency. These, and such like, were the Acts of de<g ref="char:EOLhyphen"/>vout men in <hi>O. E.</hi>
+            </p>
+            <p n="2">2. But in <hi>N. E.</hi> They did much after the same sort, or worse, as did appear in their Severities, and Cru<g ref="char:EOLhyphen"/>elties against <hi>Samuel Gort<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> and those with him, <hi>Roger Williams,</hi> and those with him; the Woman <hi>Hutchinson,</hi> and divers like minded with her; and at length, to some of the People called Quakers, of whom some were put to death, which yet was never in these last days done in <hi>O. E.</hi>
+            </p>
+            <p>Thus, SIR, you see the Reason, why these sort of Christians, may well be termed Jews: <hi>i. e.</hi> Professors, zea<g ref="char:EOLhyphen"/>lous of the Letter only, and the things without. Of these evils of theirs, I have not yet heard that they have repented, but go on wiping their
+<pb n="14" facs="tcp:204720:9"/> mouths, and talking as if all know<g ref="char:EOLhyphen"/>ledg of Heavenly things were only found with them.</p>
+            <p>Sad was that word of the Psalmist, spoken to those Jews of old, <hi>Bow down their backs always. Let their Ta<g ref="char:EOLhyphen"/>ble become a snare,</hi> &amp;c. fulfilled upon them in all ages: whom to debase is Gods design, for they are in that mu<g ref="char:EOLhyphen"/>table st<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te, that is changable, and must pass away, as it is said of the first Heaven and first Earth.</p>
+            <p>And this is the second Reason, why I say, that this Author, who calls himself a Christian, is more meet to be called a Jew; and there<g ref="char:EOLhyphen"/>fore a Quaker; because he, and those of like mind with him, stand yet up<g ref="char:EOLhyphen"/>on that Mount, to which it doth ap<g ref="char:EOLhyphen"/>pertain to Quake, Shake, and be Re<g ref="char:EOLhyphen"/>moved. At the sight of this <hi>Moses</hi> himself, and all the outward Carnal
+<pb n="15" facs="tcp:204720:9"/>
+               <hi>Israel</hi> trembled exceedingly: inso<g ref="char:EOLhyphen"/>much, that the people prayed, that <hi>Moses,</hi> and <hi>not God might speak unto them.</hi>
+            </p>
+            <p>Hence, SIR, I do not deny, but the name of Quaker did arise; for they were come to the Law of God, and that not in the Letter only, but in the life and sense of the full extent of it, feeling and undergoing the Judg<g ref="char:EOLhyphen"/>ment and Condemnation of it, where<g ref="char:EOLhyphen"/>by all their outward hopes and Con<g ref="char:EOLhyphen"/>fidence in the flesh, or outward things, Services, or knowledges of things remote, and at a distance from them, fell from them as the untimely fruits of Fig-trees, shaken with the Wind: I my self have seen many in this state; but was so far from finding fault with it, that it gladded my heart exceedingly to behold. It is the first step towards the Kingdom of Heaven. That I doubt not to say, it were hap<g ref="char:EOLhyphen"/>py,
+<pb n="16" facs="tcp:204720:10"/> not only for this Author, but for this whole Nation, especially for those of his mind, if they were come into this <hi>Quaking,</hi> Trembling Shaking State: As I believe in God, they will and must. That that which cannot be shaken may come instead. Read <hi>Mal.</hi> 4.4, 5, 6. compared with <hi>Heb.</hi> 12. the last.</p>
+            <p>And this is the Reason why I judge this Author, is rather to be termed a <hi>Quaker</hi> than a Christian, because he is in such a state that must pass away, and be removed: Whereof he more than seems to have an inward sense and fear, as he manifests sufficiently by his clamour; for if his own House, or Building were sure, firm and safe, what need he fear, as he doth, the shaking of it?</p>
+            <p n="3">3. There are a third sort of men, that will needs be called Christians
+<pb n="17" facs="tcp:204720:10"/> too, that are most of all unworthy of it, and most of all remote from being so; that live the life rather of Beasts, than Men, much less Christians, that not only live in, but glory in their Heathenism and Prophaness; Men of corrupt minds, debauch'd and wicked men, <hi>whose glory is their shame, whose God is their belly;</hi> who wholly mind earthly and perishable things; and even in word, make a mock of all appearance of Religion: yet even many of those are more mild and mer<g ref="char:EOLhyphen"/>ciful to the first sort of Christians, than those last described, As the Gen<g ref="char:EOLhyphen"/>tiles of old, that were of such sort of men, heard that very word gladly, that was rejected of the devout Jews, and persecuted by them whence 'tis said that <hi>Joseph</hi> fled with the young Child Jesus, and his Mother into <hi>Aegypt</hi> from the Jews; as <hi>Joseph</hi> in the Type, did from his Brethren. And 'tis said, <hi>Out of Aegypt have I called my
+<pb n="18" facs="tcp:204720:11"/> Son.</hi> It is safer to have ones Conver<g ref="char:EOLhyphen"/>sation among the unclean, loose and Prophane men, than with the petu<g ref="char:EOLhyphen"/>lent, angry, fierce and cruel, such as the Apostle bids beware of. And if you will receive it, this is the <hi>earth</hi> that many times <hi>helps the Woman,</hi> the Persecuted and afflicted Church. For this cause Christ was accounted by the Pharisees, as a Friend of Publicans and Sinners.</p>
+            <p n="2">2. But Secondly, It is to me appa<g ref="char:EOLhyphen"/>rent, that he whom this Author, in his book makes to bear the name of Christian. The Christian I first descri<g ref="char:EOLhyphen"/>bed, and I will give you for it these following Reasons.</p>
+            <p n="1">1. He is said to have God Essenti<g ref="char:EOLhyphen"/>ally with him, yea in him: and that this God is Christ himself, and the Holy Spirit. And this is the <hi>Light within,</hi> and this Light is God, or Christ, or the Spirit; yea,
+<pb n="19" facs="tcp:204720:11"/> that this Light is in every man. But how? not manifest in all men alike. 'Tis indeed in all men, as a Treasure hid in the field of mans heart; found of some, others must dig for it before they find it. 'Tis the Light that shin<g ref="char:EOLhyphen"/>eth in the Darkness, which the Dark<g ref="char:EOLhyphen"/>ness comprehendeth not: for how can it, it being the only obscurity of it, or that which obscureth it? And what is this Darkness? surely no o<g ref="char:EOLhyphen"/>ther than Sin, Error, and unbelief, <hi>&amp;c.</hi> The Light is that of which Saint <hi>Peter</hi> speaks, A Light that shineth in the dark corner of mans heart. To which every man shall do well to give heed.</p>
+            <p>There is no word so frequent among these People as this, <hi>the Light within:</hi> not but that it hath other names, yea, without number; but this seems for good reason to have the precedency: Why? because it gives Light to all the
+<pb n="20" facs="tcp:204720:12"/> rest. The late Assembly of Divines (so called) having undertook to give a Description of God and his Attri<g ref="char:EOLhyphen"/>butes omitted this, <hi>God is Light,</hi> John 1.1. which some Learned and Wiser Men than they, took notice of, with some reflection. This Light doth An<g ref="char:EOLhyphen"/>teced, and must be first. And there<g ref="char:EOLhyphen"/>fore of old time, they that were Bap<g ref="char:EOLhyphen"/>tised, whether into the name of the Father, the Son, or the Holy Spirit; <hi>i. e.</hi> into the nature of either, were termed <hi>Illuminati,</hi> Enlightned men; for so is the coming of the Lord, in e<g ref="char:EOLhyphen"/>very degree of his appearing: as <hi>Lightning, which shines from one part of the Heaven,</hi> in the heart of man, <hi>to the other.</hi>
+            </p>
+            <p>Now by this <hi>Light,</hi> which is God himself, God manifests himself, and that in us, even in as many as give heed unto it, and follow the guidance of it, so that in process of time (mor<g ref="char:EOLhyphen"/>tifying
+<pb n="21" facs="tcp:204720:12"/> in us what is opposed unto it) our whole man is not only Luminous, but <hi>Lumen, Light it self. Ye were Darkness,</hi> (saith the Apostle) <hi>but now ye are Light in the Lord.</hi> And thus Man becomes the Living Temple of the Living God, and the Living God a Living Temple to him: <hi>I, and my Father</hi> (saith Christ) <hi>are one:</hi> not <hi>unus,</hi> but <hi>unum,</hi> saith <hi>Beza,</hi> That they all (speaking farther of his Disciples and followers) may be <hi>unum,</hi> one thing. God one thing with Christ, and Christ one thing with the Father in them, that are one Spirit with him; that so it may come to pass (as most right it is) that <hi>God</hi> in us <hi>be all in all.</hi>
+            </p>
+            <p>This without all doubt (that so be<g ref="char:EOLhyphen"/>lieves and feels) is the Christian, whom this Author wrongfully, if not worse, calls Quaker.</p>
+            <p n="2">2. I will add but one Reason more,
+<pb n="22" facs="tcp:204720:13"/> which yet I have hinted already, why the name of a Christian doth most properly belong to him, whom this Author calls Quaker: not only from the Anointing, of which I spake be<g ref="char:EOLhyphen"/>fore; but from a more particular con<g ref="char:EOLhyphen"/>sideration of the name Christian. It is said in the <hi>Acts of the Apostles,</hi> that the <hi>Disciples were called Christians first at Antioch,</hi> which was (as some think) then the Seat of War, or a Garison Town: here the Disciples of Jesus, first set up their Banner; and being concerned in another, a more Heavenly Warfare, were there first called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is to say, Christs Asses. This I find expressed in a cer<g ref="char:EOLhyphen"/>tain Learned Author be<g ref="char:EOLhyphen"/>yond the Seas,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Asses. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> Christ's Asses.</note> which I read and translated above twenty years ago. The Title of the Book was, <hi>Argumen<g ref="char:EOLhyphen"/>tum Theologicum, de non gerendo gla<g ref="char:EOLhyphen"/>dio materiali, in Republica Christiana,</hi>
+               <pb n="23" facs="tcp:204720:13"/> which is the opinion and mind of these People that are commonly cal<g ref="char:EOLhyphen"/>led Quakers, well they may be, and sometimes have been beaten by Arm<g ref="char:EOLhyphen"/>ed Men; but they take up, nor use no such Weapons at all, as all the rest of the outward Christian World; yea, and those that profess themselves the Churches; and most manifestly and prodigiously at this day do those they call Protestants, (a reformed sort of Christians so accounted) warring one against another, not only of late here in this Land; but shamefully at this day beyond the Sea, confedera<g ref="char:EOLhyphen"/>ting with their professed Enemies: so they heretofore reputed the Roman Catholicks; yea, they also, mutually one against the other, which their most Holy Father (as they call the Pope of <hi>Rome</hi>) either overlooks, or wants Power, or Skill to prevent. All which turns to the scandal of the Christian Religion, both among Jews, Turks, and Infidels.</p>
+            <pb n="24" facs="tcp:204720:14"/>
+            <p>But these <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, whom this Au<g ref="char:EOLhyphen"/>thor calls Quakers, walk by a better Rule: for if they receive a blow on the one Cheek, they turn to them that give it, the other also, (so they profess) patiently undergoing all manner of Affronts, Persecutions, Reproaches, and Revilings, return<g ref="char:EOLhyphen"/>ing not evil for evil, according to the Commandment of the everlasting God, so that they may truly enough be termed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Christs Asses: so I find an antient Learned Author (<hi>Guliel. Paris)</hi> explaining that Text: go saith Christ to such a place, to his Disciples, and you <hi>shall find an Ass tyed, with a Colt, the Foal of an Ass bring them to me,</hi> and if the owner say, <hi>what do ye?</hi> tell him, <hi>the Master hath need of them;</hi> this he In<g ref="char:EOLhyphen"/>terprets of, first the <hi>Jew,</hi> which was the Ass tyed <hi>viz.</hi> to outward obser<g ref="char:EOLhyphen"/>vations; but secondly the Colt, the Foal of the Ass, of the <hi>Gentiles,</hi> who
+<pb n="25" facs="tcp:204720:14"/> were solute, and without Law: These (saith Christ) bring to me, as ha<g ref="char:EOLhyphen"/>ving need of them to glorifie his name among them both: on these he rides in triumph, as (somtimes he did in a Figure) into the Heavenly <hi>Jeru<g ref="char:EOLhyphen"/>salem,</hi> according to the Prophecy of <hi>Zachariah, behold your King cometh meekly, Riding upon an Ass, and upon a Colt, the Foal of an Ass: He is just having Salvation, he shall cut off the Charriot,</hi> &amp;c. that is, he shall after such a <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anner cause Warrs to cease in all Lands, which must certainly be, by such sort of Christians as these now described, that bear Christ about with them in their mortal Bo<g ref="char:EOLhyphen"/>dies, &amp; for the sake of him alone, they undergo all contradictions of Gain<g ref="char:EOLhyphen"/>sayers, following their Lord, as <hi>Sa<g ref="char:EOLhyphen"/>rah did Abraham, calling him Lord, and are not afraid of any amazement.</hi> It was said of old to some in distress at Sea, <hi>Caesarem portuunt,</hi> having <hi>Caesar</hi>
+               <pb n="26" facs="tcp:204720:15"/> with them in the Ship, they need not fear: So it may be much more truly said of these, <hi>Christum portant,</hi> they bear about Christ with them: for so the antient Christians by the old Fa<g ref="char:EOLhyphen"/>thers were called <hi>Dei-feri, Christi-feri, Sancti-feri, Templi-feri,</hi> that they were such that bore about with them, yea in them, God, Christ, the Holy Spirit, and were the living Temples of the living God. This Testimony was given even by <hi>Pline</hi> to the Chri<g ref="char:EOLhyphen"/>stians in his time, that they bore a<g ref="char:EOLhyphen"/>bout God in their Consciences; which indeed is no other, than the advice of the Apostle, 1. <hi>Cor.</hi> 6. <hi>ult. Portate igiter Deum in Corpore vestro; Bear or carry God in your Body:</hi> So in the Vulgar <hi>Latine.</hi> I met lately with an antient Citizen a Man of great Integrity, and Honesty, as well as of Note: who told me of the Preacher, late in <hi>Bishops-gate-street</hi> (lately put to silence by the Bishop
+<pb n="27" facs="tcp:204720:15"/> of <hi>London:</hi> of which the cause will be manifest hereafter:) this Man, some call'd a Quaker in a long Gown, the truth is to wonderment, he seem<g ref="char:EOLhyphen"/>ed in the spiritual Warfare <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o allarm the whole City of Professors. Like <hi>Gideons</hi> Barly Cake, leaping into the Camp of the <hi>Midianites</hi> (Men of corrupt minds and judgements, as the word seems to import) being as it were asleep in their mistaken judge<g ref="char:EOLhyphen"/>ments, and perswasions (as they speak) this Man (said he) Inter<g ref="char:EOLhyphen"/>preted the third Commandment to his great content, thus: <hi>Thou shalt not take the name of the Lord thy God in vain;</hi> he read it thus: thou shalt not <hi>bear,</hi> or <hi>carry</hi> the <hi>name</hi> of <hi>the Lord thy God in vain.</hi> Thou shalt bear his name <hi>i. e.</hi> his Image, Na<g ref="char:EOLhyphen"/>ture, and Li<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eness, and not a bare empty name only, which they that do, do it in vain, and therefore shall not be held guiltless.</p>
+            <pb n="28" facs="tcp:204720:16"/>
+            <p>This Sir, is the second reason. I might name many more, why these People whom this Author calls Qua<g ref="char:EOLhyphen"/>kers, may be more rightly than he, called Christians; but this may suf<g ref="char:EOLhyphen"/>fice for a Letter. I will conclude, in giving answer to one great question.</p>
+            <p>
+               <hi>Object.</hi> Are the People called Quakers, the only true Christians?</p>
+            <p>
+               <hi>Ans.</hi> I say not so, yea God for<g ref="char:EOLhyphen"/>bid, that I, or any other, should say so: yet this I will be bold to say their form of words (if rightly weighed) have compared with others, the bet<g ref="char:EOLhyphen"/>ter savor, being for the most part, the words of God, and the holy Scrip<g ref="char:EOLhyphen"/>ture, which yet (I confess) may be prostitued to an evil mind, and som<g ref="char:EOLhyphen"/>times are. I wish it be not found so in some of these, as well as other Peo<g ref="char:EOLhyphen"/>ple. I am sure it hath so hapned.</p>
+            <p n="1">
+               <pb n="29" facs="tcp:204720:16"/>1. Heretofore among the Jews, who had for a time, the light of truth among them, in the ministration of <hi>Moses,</hi> and the Law; but they forsook the true light, and life of God among them; but yet to secure their lust, and abominable sins, they clave to the Letter, and form of words only; and so there was left among them only, the dark, or dead Body of <hi>Moses,</hi> or the Jews, about which Body, <hi>Micha<g ref="char:EOLhyphen"/>el</hi> contended with the Devil. The Devil would have that dark and dead body, to be the true body of <hi>Moses;</hi> but <hi>Michael</hi> (who is interpreted, <hi>who is like God</hi>) withstood him, make<g ref="char:EOLhyphen"/>ing it manifest, by keeping the Com<g ref="char:EOLhyphen"/>mandment of God: that Christ and his Apostles, and true followers, were the true (Mistical) body and suc<g ref="char:EOLhyphen"/>cessors of <hi>Moses,</hi> the true <hi>Israel (Sur<g ref="char:EOLhyphen"/>rogatus Israel)</hi> the true body of <hi>Moses</hi> then, is the true body of Christ (My<g ref="char:EOLhyphen"/>stical)</p>
+            <p n="2">
+               <pb n="30" facs="tcp:204720:17"/>2. But Satan had afterward a new Game to play; and upon other pre<g ref="char:EOLhyphen"/>tences, even that of the name of Christ himself: so that there hath ri<g ref="char:EOLhyphen"/>sen as great strife in these latter days, touching the true body of Christ (mystical) as of the body of <hi>Moses</hi> be<g ref="char:EOLhyphen"/>fore, that it may be truly said, there is a dark, or dead body of Christ, or Christians: yet no party of Men pro<g ref="char:EOLhyphen"/>fessing that name, think, or believe so of themselves; but cast it still upon each other, wringing so the Nose, and forcing it to bleed: that they can<g ref="char:EOLhyphen"/>not, as they ought, savor the truth, where e're they find it: for since the day-break of Divine Light and Love, many fell into parties, in sundry pla<g ref="char:EOLhyphen"/>ces, and times: some few of them a<g ref="char:EOLhyphen"/>bode a while, in some measure of light, exceeding in some Divine truths, many of their foregoers; but when a greater, and a more clear light, was presented to them, and the day
+<pb n="31" facs="tcp:204720:17"/> coming on, offence was taken, even by them that thought they had attain<g ref="char:EOLhyphen"/>ed to the best; and so there came a<g ref="char:EOLhyphen"/>gain to be a dark, and dead body left behind in every party: as appears by the stink and filth, proceeding from them, to the great offence of God, and his holy ones; but the morning-light more increasing, more offence was yet taken; yea, this very people have committed that fault: a greater light, more large, and full of Divine Love, hath shined among them, than was among them at their first gather<g ref="char:EOLhyphen"/>ing, which many of them dealt not kindly with, but spake evil of that way, as judging nothing better, was yet to come; So that there is even a dead and a dark body of them, resting in the form, and glorying in their out<g ref="char:EOLhyphen"/>ward separation from others; and are many of them in the same condem<g ref="char:EOLhyphen"/>nation with other parties, being but a party themselves, and so not (as they ought) to be impartial.</p>
+            <pb n="32" facs="tcp:204720:18"/>
+            <p>The great Adversary of this people hath by disguise done them great hurt, and made spoil of many good things among them. But this is enough for a Letter, and more than, if it should be made publick, I should have thanks for: but this, according to my weak power and skill, I have writ to stand between the Accuser, and the Accu<g ref="char:EOLhyphen"/>sed; and some what to alleviate those deep and false Aspertions and Reflect<g ref="char:EOLhyphen"/>ions cast upon these innocent people, who have stood their Opposers in so great stead, standing in the front in the time of the hottest Persecution: like men of might, or of God; bear<g ref="char:EOLhyphen"/>ing with much long suffering and Pa<g ref="char:EOLhyphen"/>tience, all manner of Contumely, Reproach and Contradiction, when these their Opposers hid their head; yet now in the warm Sun of Liberty, unworthily come forth to revile them, and if possible, to continue the Perse<g ref="char:EOLhyphen"/>cution against them. This (as the Pro<g ref="char:EOLhyphen"/>phet
+<pb n="33" facs="tcp:204720:18"/> speaks, in like case) they should not do; but rather indeed bow to that meek mind and Spirit among them: for to the meek of the Earth (such are many of them I am well assured) is the Promise made, <hi>Mat.</hi> 5. These in due time shall be called by another name than hitherto they have been; even the <hi>name of the Lord their God, and David their King,</hi> (which imports as much as <hi>Love</hi> and <hi>Peace</hi>) which God effect, <hi>Amen.</hi>
+            </p>
+            <p>But this, and the whole, I leave to your further Observation, and re<g ref="char:EOLhyphen"/>main,</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>
+                  <hi>Your,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>Post-script.</head>
+            <p>MAny years since, when these People were in their greatest Lustre and sufferings, I writ these Verses, or Rhimes of them, which,
+<pb n="34" facs="tcp:204720:19"/> herewith I send you, shewing the thoughts I then had of them.</p>
+            <q>
+               <l>Lo what work the dispised Quakers make?</l>
+               <l>The Heavens and Earth through their Sufferings quake:</l>
+               <l>Ye sturdy Oaks, and lofty Cedar Trees</l>
+               <l>This Shrub's more fixt than ye, now all men sees.</l>
+               <l>
+                  <hi>Dan</hi>'s a Serpent, and bites the Horses heels,</l>
+               <l>The Rider's overturn'd and Judg<g ref="char:EOLhyphen"/>ment feels.</l>
+               <l>A voice was heard in <hi>Rama,</hi> Weep and Cry,</l>
+               <l>For <hi>Rachel</hi> hath her Children lost, and why?</l>
+               <l>
+                  <hi>Herod</hi> was fell and angry that a King,</l>
+               <l>Such tydings to him did the Wise-men bring,</l>
+               <l>Should from the least of <hi>Judah</hi>'s Cities come,</l>
+               <l>And in the midst of his, have a King<g ref="char:EOLhyphen"/>dome.</l>
+               <pb n="35" facs="tcp:204720:19"/>
+               <l>A day to judge the Earth is come. The Wise</l>
+               <l>Men from the East have seen his Star arise.</l>
+               <l>Ye Shepherds of the mis-informed Flocks</l>
+               <l>Those are no Gods, but Idol Blocks</l>
+               <l>Whom ye adore for such. Awake and come</l>
+               <l>And see, if ye have eyes, the cleanly Room</l>
+               <l>Where Jesus with his Mother <hi>Mary</hi> lie</l>
+               <l>Swaddled up, in the Quakers Mystery:</l>
+               <l>For who is born, I it avouch and vow</l>
+               <l>The Oath of God, which none may dis<g ref="char:EOLhyphen"/>alow.</l>
+               <l>No Oath hence-forward, needeth to be sworn,</l>
+               <l>He that's the Truth of all, is Christ new-borne.</l>
+            </q>
+         </div>
+         <div type="postscript">
+            <head>A Post-script to the Reader. <hi>By</hi> R. B. <hi>Ph.</hi>
+            </head>
+            <p>I Must needs confess, that I was greatly surprized with the Report
+<pb n="36" facs="tcp:204720:20"/> of the Printing of this Letter (such as it is) it being done, wholly with<g ref="char:EOLhyphen"/>out my knowledge: When I heard of it, I made search after it; and ha<g ref="char:EOLhyphen"/>ving (with some difficulty) got one, I found it the same I had Writ<g ref="char:EOLhyphen"/>ten a while since, at the coming forth of that Book it reflects on; and must needs own all in it; except the Errata's in the Printing, and that in the Margin, touching <hi>J. N.</hi> which I Writ not; which in this second Edition (which the Printer hath thought meet to make) is Corrected.</p>
+            <p>
+               <hi>Obj.</hi> 1. But you wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l say, how came it to be Printed?</p>
+            <p>
+               <hi>I answer,</hi> having kept a Copy of it, being occasionally in discourse about these People. A certain Per<g ref="char:EOLhyphen"/>son (eminent in the World) pro<g ref="char:EOLhyphen"/>duced many Papers Writ against them. Another present, whom I never saw before or since, spake ra<g ref="char:EOLhyphen"/>ther in favor of them, with whom I concur'd. Upon which, the first be<g ref="char:EOLhyphen"/>ing
+<pb n="37" facs="tcp:204720:20"/> diverted by other Company and discourse, I took occasion to Read it to this latter; who asked me why I did not Print it? I said no; I shall not: but sith it liketh you so well, take it to you; and do with it what you will. And now after two years well nigh, have seen it. (Upon the account of the late Disputes I sup<g ref="char:EOLhyphen"/>pose) abroad in Print. But what I have further to say of, and to, this People, as to their present State, Practise, and Conversation; I referr them to the Letter I Writ <hi>to them</hi> some years since, Inclosed in one to <hi>G. R.</hi> a principal Man among them, to Communicate to the rest.</p>
+            <p>
+               <hi>Obj.</hi> 2. It may be said, you have Writ and Printed heretofore, severe<g ref="char:EOLhyphen"/>ly against this People, as in your Preface to Mr. <hi>Robert Rich</hi> his Letter.</p>
+            <p>
+               <hi>I answer,</hi> what I Writ, was in love to them, as therein is sufficiently manifest; though ill resented by some of them: for Love evidenceth
+<pb n="38" facs="tcp:204720:21"/> it self, as well in sharp Reproofs, Chastisement, and Correction, as in countenancing, cherrishing, and justifying of the Person, Party, or thing it loves. But now upon the review of this Re-Printed Letter, I have thought meet to add to it, in brief.</p>
+            <p n="1">1. Somwhat touching that menti<g ref="char:EOLhyphen"/>oned in the second and third Pages. Where I say, <hi>That I had heard before of such a one as this Author seems to be;</hi> but I say not, This Author was in<g ref="char:EOLhyphen"/>deed he; <hi>but such a one:</hi> for he that reported it to me, said it was the Preacher at — which since I un<g ref="char:EOLhyphen"/>derstood to be <hi>J. F.</hi> and not— as I supposed, whom I knew. This <hi>J. F.</hi> hath Writ to the same purpose with <hi>J. H.</hi> though indeed to little purpose, having, as I since told him (meeting him at the House of a com<g ref="char:EOLhyphen"/>mon Friend) gone about, and about, and always without; never touching them, whom he is so greatly offend<g ref="char:EOLhyphen"/>ed
+<pb n="39" facs="tcp:204720:21"/> with. They in their Testimony, remaining, in mean time secure, and safe within, hid (it seems from his eyes) as in the secret of the Almighty.</p>
+            <p n="2">2. Somwhat further touching the intent and scope of this Letter; which is an Apologie in behalf of the Testimony giver of this People, as though it were Peculiar to them, touching the Light within. That they that profess it, as the Christians of old did, are as they were said to be, <hi>Acts</hi> 28.11. the Sect that is every where spoken against. I have therefore thought meet to transcribe some Testimonies to it, both Antient and Modern.</p>
+            <p n="1">1. From those of antient time; and first from those reputed <hi>Heathen,</hi> because not of the visible, or outward<g ref="char:EOLhyphen"/>ly constituted and professing Church, either that of old time of the <hi>Jews,</hi> or of the <hi>Christians</hi> since. I find this Paragraph in <hi>John Taylor,</hi> who flou<g ref="char:EOLhyphen"/>rished in <hi>Germany</hi> about the Year
+<pb n="40" facs="tcp:204720:22"/> 1346. mentioned with honor by Mr. <hi>Fox</hi> in his Acts and Monuments, as he at whom <hi>Luther</hi> first lighted his Candle, yet reproachfully reflected on sometime since, by Mr. <hi>B</hi> late of <hi>Kidm.</hi>
+            </p>
+            <p>
+               <hi>Phylosophus quidam Alteri aeque Phyloso<g ref="char:EOLhyphen"/>pho dignum Phylosopho sententiam depromp<g ref="char:EOLhyphen"/>sit; dicens, percepi quiddam in me resplen<g ref="char:EOLhyphen"/>dens intellectui meo, quod equidem aliquid esse experior, sed quid sit inteligere nequeo. Videtur tamen mihi, si id apprehendere possem omnem me veritatem perspecturum; Cui alter ille Philosophus. Hoc ergo inquit Persequere, Certus, quia si apprehendere Potens, bonorum omnium Cumulum, &amp; ipsam quoque Vitam eternam obtinebis.</hi> Which is in effect, thus in <hi>English</hi> A Certain Philosopher, gave forth this Sentence worthy a philoso<g ref="char:EOLhyphen"/>pher to another Philosopher like himself, saying, I perceive something shining forth in or to my understanding, some (ex<g ref="char:EOLhyphen"/>cellent) thing indeed I find it to be, but what it is I cannot well comprehend, or un<g ref="char:EOLhyphen"/>derstand: Yet it seemeth to me, if I were able to comprehend, and understand it, I should attain to the sight and perception of all Truth. To whom, that other Philo<g ref="char:EOLhyphen"/>sopher replyed, Follow that on, being assured, that if thou canst attain it, thou
+<pb n="41" facs="tcp:204720:22"/> shalt reap the whole summe of all good things, even eternall life it self.</p>
+            <p>Secondly from one of those in the visible and outwardly Constituted Church: as that Father (as they speak) Great St. <hi>Austin.</hi> Thus in his own words: <hi>Sensi quiddam in me resplendens animae meae, quod si perficeretur in me, dicire non dubitarem, id vitam aeternam esse, occultat se, &amp; nihilo<g ref="char:EOLhyphen"/>minus manifestat se, furtine venit, quasi omnia animae furaturum, ablatu<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umque mani<g ref="char:EOLhyphen"/>festat se, indicat ex parte, ut per hoc ani<g ref="char:EOLhyphen"/>mam alliceat, provocet, &amp; post se trahet, imo &amp; auferat sibi ipsi.</hi> In <hi>English</hi> thus: I have perceived something shining and stir<g ref="char:EOLhyphen"/>ring in my mind or Soul; which, if it were perfected, I would not doubt to say, it were eternal Life it self. It hides it self indeed, yet nevertheless it manifests it self: it steals in upon me, as if it would rob me of all that I have in my mind: it discovers it self (first) but in part, that so it may allure, provoke, and draw, yea and take away my mind or soul even quite with it unto it self.</p>
+            <p n="2">2. Add hereunto the Testimony of some in old time in the visible professing Church, touching some of those without it: As first, That of <hi>Clemens Alexandrinus:</hi> Thus in
+<pb n="42" facs="tcp:204720:23"/>
+               <hi>Latin; Philosophia Graecos Paedagogi more ducebat, sicut Lex Hebreos ad Christum.</hi> Philosophy was the School-mistris to the <hi>Greeks</hi> or <hi>Gentiles,</hi> as the Law was to the <hi>Jews,</hi> leading them both to Christ. 2dly, That of <hi>Justin Martyr</hi> (so called) because he suffered Martyrdome for the Christian Religion, a very Antient Martyr, in his A<g ref="char:EOLhyphen"/>pology for Christians, writes more boldly. Thus; <hi>Qui cum ratione vixerunt Christia<g ref="char:EOLhyphen"/>ni sunt, etiamsi Athis habiti sint; ut</hi> Socra<g ref="char:EOLhyphen"/>tes, <hi>&amp;</hi> Heraclitus <hi>apud</hi> Graecos. They that live according to the Principles of (Right) Reason, are Christians, though they have been, or may be accounted Atheists; as <hi>Socrates,</hi> and <hi>Heraclitus</hi> among the <hi>Greeks.</hi> Where by Reason (without doubt) this Author means the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the Word, <hi>John</hi> 1.1. which <hi>Erasmus</hi> and some others translate <hi>Ratio, Reason,</hi> of which <hi>Paul</hi> (beyond all) speaks, <hi>Rom.</hi> 10. saying, even of all men, both Jews and Gentiles, <hi>v.</hi> 18. <hi>What, have they not heard? yes verily: their sound (viz.</hi> of the Apostles) <hi>is gone forth unto all the Earth, and their words unto the ends of the World.</hi> For it reached to and concerned all men, and is indeed every where, though hid from most, because un<g ref="char:EOLhyphen"/>regarded, disobeyed, unbelieved, and re<g ref="char:EOLhyphen"/>jected of them.</p>
+            <pb n="43" facs="tcp:204720:23"/>
+            <p>But that I may not be too tedious, I will add but the Testimony of a late Mo<g ref="char:EOLhyphen"/>dern Writer, touching this matter, ex<g ref="char:EOLhyphen"/>prest in a few Quaeries.</p>
+            <p n="1">1. <hi>Quaer.</hi> Whether every man do not find something in him that is <hi>pure,</hi> which he may perceive to be such, by opposing the evil, and moving to the good, according to that of the Poet, <hi>Every man hath some<g ref="char:EOLhyphen"/>thing of God in him.</hi>
+            </p>
+            <p n="2">2. Whether that which is pure, which is no other than the Light of Christ, and Spirit of God, ought not to be believed in, followed, and obeyed?</p>
+            <p n="3">3. Whether our comfort stand ground<g ref="char:EOLhyphen"/>ed in the obedience and following of that Light, or that only on which Christ hath done outwardly for us?</p>
+            <p n="4">4. Whether this Light and Spirit in us can be examined, or tryed by the Letter of the Scripture? Seeing he that is in the Iniquity or sin cannot judge truly of the Spirit, and the things thereof, either by or without the Scripture; but if the same Spirit be in us, which is the Key of the Scripture, then we may examine and judge by the Scriptures, according to our mea<g ref="char:EOLhyphen"/>sure and growth, concerning the works of God within us.</p>
+            <p n="5">
+               <pb n="44" facs="tcp:204720:24"/>5. Whether the New birth in Christ be not two-fold, one after the flesh, and the other after the Spirit, according to the scope of 2 <hi>Cor.</hi> 5. but this shall suffice.</p>
+            <p>
+               <hi>Conclusion to the Reader.</hi> Notwith<g ref="char:EOLhyphen"/>standing all this, I do not (I suppose) hereby declare my self to be a <hi>Quaker,</hi> as having, by the grace of God, no need so to be; neither, as I understand, do these people own that name (at least now) as their proper Stile and Character, being most fixt and established in their belief and Testimony of Jesus. But what I have writ or done, hath been to shew my hope and expectation, which I know is the hope and expectation of all good Christians: That after all these Shakings, according to our daily Prayer, the Kingdom of God, that cannot be shaken may come, (a<g ref="char:EOLhyphen"/>mong us, and prevail in us and over us; yea, in and over the whole Land, from the highest to the lowest, wherein and where<g ref="char:EOLhyphen"/>by Righteousness and Peace, Truth and Love to the uniting of all in one Lord, and one God, every one in his order and place, may take place, to the consolation of all) <hi>Wherefore let us have grace, whereby we may serve God acceptably,</hi> with <hi>Reverence and Godly fear: for our God is a Consuming fire.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:204720:24"/>
+            <head>The Reader is desired to correct these gross Mi<g ref="char:EOLhyphen"/>stakes in this second Impression.</head>
+            <p>PAge 18th. l. 14. left out these words after <hi>of,</hi> add. <hi>Quaker ought also of right to bear the name of,</hi> Christi- p. 25. line the last, read <hi>portant.</hi> p. 35. l. 12. <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nstead of <hi>Who</hi> read <hi>He.</hi> in the post-script p. 36. l. 14. should have been added after corrected <hi>and left out.</hi> for it was appointed by the Author and so expected. that the marginal note touching <hi>J. N.</hi> should have been wholly left out. p. 39. line 24. for <hi>Jo<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Tay<g ref="char:EOLhyphen"/>lor</hi> read <hi>John Taulerus</hi> p. 40. l. 14. for <hi>poteur</hi> read <hi>
+                  <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tes.</hi> p. 41. l. 10. for <hi>furtine</hi> read <hi>furtive,</hi> p. 42. l. 11 for <hi>Athis</hi> read <hi>Athei.</hi> in the same page l. 17. put a Coma after <hi>where,</hi> and l. the 18th. after <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> put the the <hi>Word.</hi> p. 44. line 12. for <hi>most</hi> put in <hi>more.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
